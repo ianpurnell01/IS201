@@ -1,0 +1,8 @@
+.square-img {
+    border-radius: 20px;
+    z-index: 5;
+}
+
+.circle-grad {
+    z-index: -100;
+}

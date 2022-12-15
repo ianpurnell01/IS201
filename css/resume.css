@@ -1,0 +1,50 @@
+a {
+    text-decoration: none !important;
+    color: black;
+}
+
+a:visited {
+    color: rgb(92, 92, 92)
+}
+
+.navbar {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 8px 8px -8px gray;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.subheading {
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+.navtitle {
+    font-size: 30px;
+    margin-left: 10%;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navitem {
+    text-align: center;
+}
+
+.navlink {
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+}
+
+.nextrow {
+    margin-top: 5% !important;
+}
